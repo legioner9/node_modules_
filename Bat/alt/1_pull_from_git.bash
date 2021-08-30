@@ -1,2 +1,2 @@
-cd /home/st/data_1/AFO_GenerativusFucus
+cd /home/st/data_1/node_modules_
 git pull origin master
